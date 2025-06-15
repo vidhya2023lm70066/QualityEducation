@@ -46,13 +46,13 @@ Mobile-Responsive UI
 
 Group number :12
 
-vidhya shree 2023lm70066@wilp.bits-pilani.ac.in 2023lm70066 technical analyst
+vidhya shree 2023lm70066@wilp.bits-pilani.ac.in 2023lm70066 PM
 
 sowmiya Devi 2023lm70062@wilp.bits-pilani.ac.in 2023lm70062 user researcher
 
 Nivetha      2023lm70067@wilp.bits-pilani.ac.in 2023lm70067  tester
 
-Sanjay       2023lm70065@wilp.bits-pilani.ac.in 2023lm70065  PM
+Sanjay       2023lm70065@wilp.bits-pilani.ac.in 2023lm70065  technical analyst
 
 anurag mishra 2023lm70064@wilp.bits-pilani.ac.in 2023lm70064 programmer
 
